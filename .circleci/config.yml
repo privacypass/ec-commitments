@@ -7,4 +7,5 @@ jobs:
     working_directory: ~/ec-commitments
     steps:
       - checkout
+      - run: yarn install
       - run: yarn test
