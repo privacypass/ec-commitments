@@ -1,0 +1,10 @@
+# CircleCI config
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:8.12
+    working_directory: ~/ec-commitments
+    steps:
+      - checkout
+      - run: yarn test
