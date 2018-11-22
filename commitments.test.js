@@ -11,7 +11,7 @@ describe('test parsing P256', () => {
         expect(cfDevH == chkHdevP256).toBeTruthy();
     });
 
-    test('v1', () => {
+    test('v1.0', () => {
         const COMMITMENTS = require('./commitments-p256.json');
         let cfDevG = COMMITMENTS['CF']['1.0']['G'];
         let cfDevH = COMMITMENTS['CF']['1.0']['H'];
