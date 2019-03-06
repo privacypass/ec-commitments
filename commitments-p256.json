@@ -8,5 +8,15 @@
                 "G": "BOidEuO9HSJsMZYE/Pfc5D+0ELn0bqhjEef2O0u+KAw3fPMHHXtVlEBvYjE5I/ONf9SyTFSkH3mLNHkS06Du6hQ=",
                 "H": "BHOPNAWXRi4r/NEptOiLOp8MSwcX0vHrVDRXv16Jnowc1eXXo5xFFKIOI6mUp8k9/eca5VY07dBhAe8QfR/FSRY="
             }
+        },
+        "HC": {
+            "dev": {
+                "G": "BEGELO2Q47bB8i476qoYpctTzIFtczhURt8K3z6Y2bAV56zP58Mo2mqB/FiW2gg/QsvPGPucZeFVXCFE0dYeG9I=",
+                "H": "BPOZi60GN5PML/MeA0WU427DwuwEyg2UPxIKG2s6GtWaIsDl1hbuPItvUuvY1ZJ4UitG5Ya2MgcV3sFg8/4v0nE="
+            },
+            "1.0": {
+              "G": "BMKCnVDWUEBNiyAR+p0YT7QvtrOfpHAeatzipwo6x98Ch1q3ZoCkNdiQvUTEwDzG20RplG/IE2NCpsXZGLsUdvA=",
+              "H": "BNJIpofS4RhbUfnkblr5yvuymaEfV+ViKshsoN9DkCRaHBB+TiKUnicc14gBswpLfBaKXuC102Cvwzq3YIN8dVo="
+            }
         }
     }
