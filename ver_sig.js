@@ -10,9 +10,9 @@ bls.onModuleInit(() => {
   let sig = bls.signatureImport(Buffer.from(COMMITMENTS['signature']));
   let msg = JSON.stringify(COMMITMENTS['commitments']);
   if (bls.verify(sig, P, msg)) {
-    console.log("Signature verifed");
+    console.log("Signature verified");
   }
   else {
-    console.log("Signature could not be verfified");
+    console.log("Signature could not be verified");
   }
 });
