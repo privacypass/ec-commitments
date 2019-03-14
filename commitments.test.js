@@ -3,7 +3,6 @@ const chkHdevP256 = 'BJj8hRLfPSe+GNfbS3Jd2XmYU3XTEJw+TaTxx7M9lxVY9BDI6toWVpmffMR
 const chkGv1P256 = 'BOidEuO9HSJsMZYE/Pfc5D+0ELn0bqhjEef2O0u+KAw3fPMHHXtVlEBvYjE5I/ONf9SyTFSkH3mLNHkS06Du6hQ=';
 const chkHv1P256 = 'BHOPNAWXRi4r/NEptOiLOp8MSwcX0vHrVDRXv16Jnowc1eXXo5xFFKIOI6mUp8k9/eca5VY07dBhAe8QfR/FSRY=';
 
-const secretKey = '9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08';
 const public_key = "cd995480d3287eb8626b1a40b224ed9ada052cae3472665eba297b9785929a1f8ecee5b65dd580f12f239a7183490c4470595ec73cde697cb92d15f1b666c597";
 
 const signature = [78, -54, 120, 102, -66, 124, 66, 111, -34, -125, 0, -53, 82, -32, 35, 79, -79, -98, -43, 91, -45, -67, 54, 12, -110, -21, -85, -109, -98, -20, -18, -97];
@@ -31,7 +30,6 @@ describe('test parsing P256', () => {
         bls.onModuleInit(() => {
           bls.init()
 
-          let s = bls.secretKeyImport(Buffer.from(secretKey, 'hex'));
           let P = bls.publicKeyImport(Buffer.from(public_key, 'hex'));
 
           let sig = bls.signatureImport(Buffer.from(COMMITMENTS['signature']));
