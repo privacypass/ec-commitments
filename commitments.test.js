@@ -9,7 +9,7 @@ const signature = [78, -54, 120, 102, -66, 124, 66, 111, -34, -125, 0, -53, 82, 
 
 describe('test parsing P256', () => {
     test('dev', () => {
-        const COMMITMENTS = require('./commitments-p256-signed.json');
+        const COMMITMENTS = require('./commitments-p256.json');
         let cfDevG = COMMITMENTS['commitments']['CF']['dev']['G'];
         let cfDevH = COMMITMENTS['commitments']['CF']['dev']['H'];
         expect(cfDevG == chkGdevP256).toBeTruthy();
@@ -17,14 +17,14 @@ describe('test parsing P256', () => {
     });
 
     test('v1.0', () => {
-        const COMMITMENTS = require('./commitments-p256-signed.json');
+        const COMMITMENTS = require('./commitments-p256.json');
         let cfDevG = COMMITMENTS['commitments']['CF']['1.0']['G'];
         let cfDevH = COMMITMENTS['commitments']['CF']['1.0']['H'];
         expect(cfDevG == chkGv1P256).toBeTruthy();
         expect(cfDevH == chkHv1P256).toBeTruthy();
     });
     test('signature', () => {
-        const COMMITMENTS = require('./commitments-p256-signed.json');
+        const COMMITMENTS = require('./commitments-p256.json');
 
         const bls = require('bls-lib');
         bls.onModuleInit(() => {

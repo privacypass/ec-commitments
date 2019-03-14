@@ -1,6 +1,6 @@
 const public_key = "cd995480d3287eb8626b1a40b224ed9ada052cae3472665eba297b9785929a1f8ecee5b65dd580f12f239a7183490c4470595ec73cde697cb92d15f1b666c597";
 
-const COMMITMENTS = require('./commitments-p256-signed.json');
+const COMMITMENTS = require('./commitments-p256.json');
 
 const bls = require('bls-lib');
 
