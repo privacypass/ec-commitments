@@ -1,0 +1,14 @@
+{
+    "CF": {
+        "2": {
+            "G": "\u0026beacon.Point{x:(*big.Int)(0xc00000a5c0), y:(*big.Int)(0xc00000a5e0)}",
+            "H": "\u0026beacon.Point{x:(*big.Int)(0xc000096240), y:(*big.Int)(0xc000096260)}"
+        }
+    },
+    "HC": {
+        "2": {
+            "G": "\u0026beacon.Point{x:(*big.Int)(0xc00000a5c0), y:(*big.Int)(0xc00000a5e0)}",
+            "H": "\u0026beacon.Point{x:(*big.Int)(0xc000096240), y:(*big.Int)(0xc000096260)}"
+        }
+    }
+}
