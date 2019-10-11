@@ -1,22 +1,27 @@
-    {
-        "CF": {
-            "dev": {
-                "G": "BCyENEmEdWz3Wivy7iwXFcLZ0xOW7PCe2BtoMD6sYBqUK+PBZad5euc1tP9ekcdSDxxK3ijgHsQ1PqQim4VqDGo=",
-                "H": "BJj8hRLfPSe+GNfbS3Jd2XmYU3XTEJw+TaTxx7M9lxVY9BDI6toWVpmffMR0P28XJcV3W0SGWX2OOrRLaBYGhwM="
-            },
-            "1.0": {
-                "G": "BOidEuO9HSJsMZYE/Pfc5D+0ELn0bqhjEef2O0u+KAw3fPMHHXtVlEBvYjE5I/ONf9SyTFSkH3mLNHkS06Du6hQ=",
-                "H": "BHOPNAWXRi4r/NEptOiLOp8MSwcX0vHrVDRXv16Jnowc1eXXo5xFFKIOI6mUp8k9/eca5VY07dBhAe8QfR/FSRY="
-            }
+{
+    "CF": {
+        "1.0": {
+            "G": "BOidEuO9HSJsMZYE/Pfc5D+0ELn0bqhjEef2O0u+KAw3fPMHHXtVlEBvYjE5I/ONf9SyTFSkH3mLNHkS06Du6hQ=",
+            "H": "BHOPNAWXRi4r/NEptOiLOp8MSwcX0vHrVDRXv16Jnowc1eXXo5xFFKIOI6mUp8k9/eca5VY07dBhAe8QfR/FSRY="
         },
-        "HC": {
-            "dev": {
-                "G": "BEGELO2Q47bB8i476qoYpctTzIFtczhURt8K3z6Y2bAV56zP58Mo2mqB/FiW2gg/QsvPGPucZeFVXCFE0dYeG9I=",
-                "H": "BPOZi60GN5PML/MeA0WU427DwuwEyg2UPxIKG2s6GtWaIsDl1hbuPItvUuvY1ZJ4UitG5Ya2MgcV3sFg8/4v0nE="
-            },
-            "1.0": {
-                "G": "BMKCnVDWUEBNiyAR+p0YT7QvtrOfpHAeatzipwo6x98Ch1q3ZoCkNdiQvUTEwDzG20RplG/IE2NCpsXZGLsUdvA=",
-                "H": "BNJIpofS4RhbUfnkblr5yvuymaEfV+ViKshsoN9DkCRaHBB+TiKUnicc14gBswpLfBaKXuC102Cvwzq3YIN8dVo="
-            }
+        "1.01": {
+            "H": "BPivZ+bqrAZzBHZtROY72/E4UGVKAanNoHL1Oteg25oTPRUkrYeVcYGfkOr425NzWOTLRfmB8cgnlUfAeN2Ikmg=",
+            "expiry": "2020-01-11T10:29:10.658286752Z",
+            "sig": "MEUCIQDu9xeF1q89bQuIMtGm0g8KS2srOPv+4hHjMWNVzJ92kAIgYrDKNkg3GRs9Jq5bkE/4mM7/QZInAVvwmIyg6lQZGE0="
+        },
+        "dev": {
+            "G": "BCyENEmEdWz3Wivy7iwXFcLZ0xOW7PCe2BtoMD6sYBqUK+PBZad5euc1tP9ekcdSDxxK3ijgHsQ1PqQim4VqDGo=",
+            "H": "BJj8hRLfPSe+GNfbS3Jd2XmYU3XTEJw+TaTxx7M9lxVY9BDI6toWVpmffMR0P28XJcV3W0SGWX2OOrRLaBYGhwM="
+        }
+    },
+    "HC": {
+        "1.0": {
+            "G": "BMKCnVDWUEBNiyAR+p0YT7QvtrOfpHAeatzipwo6x98Ch1q3ZoCkNdiQvUTEwDzG20RplG/IE2NCpsXZGLsUdvA=",
+            "H": "BNJIpofS4RhbUfnkblr5yvuymaEfV+ViKshsoN9DkCRaHBB+TiKUnicc14gBswpLfBaKXuC102Cvwzq3YIN8dVo="
+        },
+        "dev": {
+            "G": "BEGELO2Q47bB8i476qoYpctTzIFtczhURt8K3z6Y2bAV56zP58Mo2mqB/FiW2gg/QsvPGPucZeFVXCFE0dYeG9I=",
+            "H": "BPOZi60GN5PML/MeA0WU427DwuwEyg2UPxIKG2s6GtWaIsDl1hbuPItvUuvY1ZJ4UitG5Ya2MgcV3sFg8/4v0nE="
         }
     }
+}
