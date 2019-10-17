@@ -19,9 +19,15 @@
             "G": "BMKCnVDWUEBNiyAR+p0YT7QvtrOfpHAeatzipwo6x98Ch1q3ZoCkNdiQvUTEwDzG20RplG/IE2NCpsXZGLsUdvA=",
             "H": "BNJIpofS4RhbUfnkblr5yvuymaEfV+ViKshsoN9DkCRaHBB+TiKUnicc14gBswpLfBaKXuC102Cvwzq3YIN8dVo="
         },
+        "1.01": {
+            "H": "BP0XOkOKRL3SILySVCjYbmVyib/09t8JAWEt5FBJ0qssAJ2eUIT0Mv3KFI7fymU5aj4yrZW9Ike0Xkx7nIYl3+w=",
+            "expiry": "2020-10-17T09:16:21.5624312+02:00",
+            "sig": "MEQCIBgkVRWEXWpSxc8jUOdmAoAieP6D2i8bi7Z+JWQrN8DNAiBuq2xKhamAXYssfQN7vj7aqiuhqZV/N7ZU1EpNfsnAuw=="
+        },
         "dev": {
-            "G": "BEGELO2Q47bB8i476qoYpctTzIFtczhURt8K3z6Y2bAV56zP58Mo2mqB/FiW2gg/QsvPGPucZeFVXCFE0dYeG9I=",
-            "H": "BPOZi60GN5PML/MeA0WU427DwuwEyg2UPxIKG2s6GtWaIsDl1hbuPItvUuvY1ZJ4UitG5Ya2MgcV3sFg8/4v0nE="
+            "H": "BBCMuxxy4wqbJyoF/Y/4dUUaUJ04n+wwqXhAidzDEGJdoYcfjm+6qqR5xDDFU0g4gpmtxFQfNNY5Ba7mDIc5Hqc=",
+            "expiry": "2020-10-17T09:15:31.922997+02:00",
+            "sig": "MEUCIQChVY7JG+j3ccuUH8Ps1UvBKb8TFDn0lKHmXAMErhdyIQIgDQfslsoZKeActCBbNrbLm5IkxNQrXEymrclAPvKDgsg="
         }
     }
 }
