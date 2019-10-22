@@ -9,6 +9,11 @@
             "expiry": "2020-01-11T10:29:10.658286752Z",
             "sig": "MEUCIQDu9xeF1q89bQuIMtGm0g8KS2srOPv+4hHjMWNVzJ92kAIgYrDKNkg3GRs9Jq5bkE/4mM7/QZInAVvwmIyg6lQZGE0="
         },
+        "2.00": {
+            "H": "BKLPWNofDm4naPFgCGMgYm+iRCl6Hb/2MGlnG/gcW+uJTQ3gvxThWUmxs6eiH6rVAzySEc00TfTMZgeAHHMSfSg=",
+            "expiry": "2020-01-22T10:11:43.044690292Z",
+            "sig": "MEQCIDVWtXwrrst99ysm5f+D9eKdQn32GuXX7LEMUOmfo7MRAiAwNy7LiDJkaScMgdOLWwY2mt17kaEabBDzYA7fWIUgmA=="
+        },
         "dev": {
             "G": "BCyENEmEdWz3Wivy7iwXFcLZ0xOW7PCe2BtoMD6sYBqUK+PBZad5euc1tP9ekcdSDxxK3ijgHsQ1PqQim4VqDGo=",
             "H": "BJj8hRLfPSe+GNfbS3Jd2XmYU3XTEJw+TaTxx7M9lxVY9BDI6toWVpmffMR0P28XJcV3W0SGWX2OOrRLaBYGhwM="
