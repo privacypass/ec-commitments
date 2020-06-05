@@ -64,6 +64,11 @@
             "expiry": "2020-07-01T00:01:00.004984452Z",
             "sig": "MEUCIQDUSvRcLygQU/rD6eUevtz+DSzDk/ZQxsnhB0Gc8Sb79gIgPABlAIZJTQ3fqJp+mBQaluY3XQPA+Wh0Yd7KHgr/wGo="
         },
+        "2.11": {
+            "H": "BAjkgZfsGQFPC0GJl7xFhg2U0N/i1H+mcnkQgxbrtiCosK7KzGBGRXRh0j6uilOB5ekxaUGy0zKkGFUtBPMLU2g=",
+            "expiry": "2020-07-16T00:01:00.000516571Z",
+            "sig": "MEUCIQCxBSKpSoHQe5id/JezTZGwP2Uh6SVeJQYnWIGKxHMBMgIgYMoCYayrTjz6YT3DcCNSOYgoAQt8tfvblLm7Cq7Huc8="
+        },
         "dev": {
             "G": "BCyENEmEdWz3Wivy7iwXFcLZ0xOW7PCe2BtoMD6sYBqUK+PBZad5euc1tP9ekcdSDxxK3ijgHsQ1PqQim4VqDGo=",
             "H": "BJj8hRLfPSe+GNfbS3Jd2XmYU3XTEJw+TaTxx7M9lxVY9BDI6toWVpmffMR0P28XJcV3W0SGWX2OOrRLaBYGhwM="
