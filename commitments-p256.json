@@ -1,5 +1,30 @@
 {
     "CF": {
+        "patches": [
+            {
+                "config": {
+                  "issue-action": {
+                    "request-identifiers": {
+                      "body-param": [
+                        "g-recaptcha-response",
+                        "h-captcha-response",
+                        "cf_captcha_kind",
+                        "r",
+                        "vc",
+                        "captcha_vc",
+                        "captcha_answer",
+                        "cf_ch_verify",
+                        "cf_ch_cp_return"
+                      ],
+                      "post-processed": "captcha-bypass",
+                      "query-param": "__cf_chl_captcha_tk__"
+                    }
+                  }
+                },
+                "min-version": "2.0.6",
+                "sig": "MEUCIHCqVCgo3sKAb6n+yznxsSIVts5L6u89duJvt8x93175AiEAzhd9F3HIGIaITMr79Wmskt697cE8lvWRTPBYScxOVEI="
+            }
+        ],
         "1.0": {
             "G": "BOidEuO9HSJsMZYE/Pfc5D+0ELn0bqhjEef2O0u+KAw3fPMHHXtVlEBvYjE5I/ONf9SyTFSkH3mLNHkS06Du6hQ=",
             "H": "BHOPNAWXRi4r/NEptOiLOp8MSwcX0vHrVDRXv16Jnowc1eXXo5xFFKIOI6mUp8k9/eca5VY07dBhAe8QfR/FSRY="
