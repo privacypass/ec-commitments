@@ -1,30 +1,5 @@
 {
     "CF": {
-        "patches": [
-            {
-                "config": {
-                  "issue-action": {
-                    "request-identifiers": {
-                      "body-param": [
-                        "g-recaptcha-response",
-                        "h-captcha-response",
-                        "cf_captcha_kind",
-                        "r",
-                        "vc",
-                        "captcha_vc",
-                        "captcha_answer",
-                        "cf_ch_verify",
-                        "cf_ch_cp_return"
-                      ],
-                      "post-processed": "captcha-bypass",
-                      "query-param": "__cf_chl_captcha_tk__"
-                    }
-                  }
-                },
-                "min-version": "2.0.6",
-                "sig": "MEUCIHCqVCgo3sKAb6n+yznxsSIVts5L6u89duJvt8x93175AiEAzhd9F3HIGIaITMr79Wmskt697cE8lvWRTPBYScxOVEI="
-            }
-        ],
         "1.0": {
             "G": "BOidEuO9HSJsMZYE/Pfc5D+0ELn0bqhjEef2O0u+KAw3fPMHHXtVlEBvYjE5I/ONf9SyTFSkH3mLNHkS06Du6hQ=",
             "H": "BHOPNAWXRi4r/NEptOiLOp8MSwcX0vHrVDRXv16Jnowc1eXXo5xFFKIOI6mUp8k9/eca5VY07dBhAe8QfR/FSRY="
@@ -99,10 +74,40 @@
             "expiry": "2020-08-01T00:01:00.011187124Z",
             "sig": "MEQCIDuShDrTs2hLRDhPN53kq0Zy2hayJne8mbrF14wTmyP/AiAGm/Ig3lyPPgHaiNYhMrEdbtX2q/BL0i5NMtjA7sLsOw=="
         },
+        "2.13": {
+            "H": "BFwcRq3P7PyX+20pW6iPFAOH+kusMuRsQNcjuCRTQEofumaAB8TQFPigBMJ6mw03KtORoOj0t3RbAwUHIllunbw=",
+            "expiry": "2020-08-15T00:01:00.013522118Z",
+            "sig": "MEYCIQC/3n7PZ8ExdbdIGGefpEqno8Jjuv9pVnf3nB91+if1mQIhAL1Q0IHBenS/SBDu7Ckbe2eUI2UtlN1YsbkVMcjx1YUQ"
+        },
         "dev": {
             "G": "BCyENEmEdWz3Wivy7iwXFcLZ0xOW7PCe2BtoMD6sYBqUK+PBZad5euc1tP9ekcdSDxxK3ijgHsQ1PqQim4VqDGo=",
             "H": "BJj8hRLfPSe+GNfbS3Jd2XmYU3XTEJw+TaTxx7M9lxVY9BDI6toWVpmffMR0P28XJcV3W0SGWX2OOrRLaBYGhwM="
-        }
+        },
+        "patches": [
+            {
+                "config": {
+                    "issue-action": {
+                        "request-identifiers": {
+                            "body-param": [
+                                "g-recaptcha-response",
+                                "h-captcha-response",
+                                "cf_captcha_kind",
+                                "r",
+                                "vc",
+                                "captcha_vc",
+                                "captcha_answer",
+                                "cf_ch_verify",
+                                "cf_ch_cp_return"
+                            ],
+                            "post-processed": "captcha-bypass",
+                            "query-param": "__cf_chl_captcha_tk__"
+                        }
+                    }
+                },
+                "min-version": "2.0.6",
+                "sig": "MEUCIHCqVCgo3sKAb6n+yznxsSIVts5L6u89duJvt8x93175AiEAzhd9F3HIGIaITMr79Wmskt697cE8lvWRTPBYScxOVEI="
+            }
+        ]
     },
     "HC": {
         "1.0": {
