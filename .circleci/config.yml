@@ -1,11 +1,11 @@
 # CircleCI config
-version: 2
+version: 2.1
 jobs:
   build:
     docker:
-      - image: circleci/node:8.12
+      - image: circleci/node:14.15
     working_directory: ~/ec-commitments
     steps:
       - checkout
-      - run: yarn install
-      - run: yarn test
+      - run: npm install
+      - run: npm test
