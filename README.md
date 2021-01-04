@@ -9,6 +9,6 @@ Currently we only support operations on P-256.
 Quickstart:
 
 ```sh
- $ npm ci 
+ $ npm install
  $ npm test
 ```
