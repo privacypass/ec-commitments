@@ -6,5 +6,9 @@ Elliptic curve commitments that are used for Privacy Pass. Stored separately to 
 
 Currently we only support operations on P-256.
 
-Quickstart: `yarn test`
+Quickstart:
 
+```sh
+ $ npm ci 
+ $ npm test
+```
