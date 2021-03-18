@@ -2,8 +2,11 @@
   "name": "ec-commitments",
   "version": "1.0.0",
   "description": "commitments file for elliptic curves",
-  "repository": "git@github.com:alxdavids/ec-commitments",
-  "author": "Alex Davidson <adavidson@cloudflare.com>",
+  "repository": "https://github.com/privacypass/ec-commitments",
+  "contributors": [
+	  "Alex Davidson <adavidson@cloudflare.com>",
+	  "Armando Faz <armfazh@cloudflare.com>"
+  ],
   "license": "MIT",
   "private": false,
   "dependencies": {
