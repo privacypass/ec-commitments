@@ -184,6 +184,11 @@
             "expiry": "2021-07-01T00:01:00.110985675Z",
             "sig": "MEYCIQCZ0eR5AouBfar3xWtcjKmoQa5WVgQRDp15DP0+cXmGbQIhAJ2Nw4GCEqA8KYKGtMwzPm5D+up73HPayHC/y/xXgRBu"
         },
+        "2.35": {
+            "H": "BHRP6AxVqB69J/6SaakuWU/5q/8z+c+00/3VD+VZ2R5Wur5jwOd8gKZWW4upwFm6Hv2a48KZujSUghyNrUwYwtQ=",
+            "expiry": "2021-07-16T00:01:00.059781599Z",
+            "sig": "MEUCIFTddMUytuzkn1Lvugtxhh5wOnhF6vdE7oI0O5nZqHe8AiEA9R9IolSrDs/XBRpQl+jKa2ytcBZxCdtksYhqFq2dtiY="
+        },
         "dev": {
             "G": "BCyENEmEdWz3Wivy7iwXFcLZ0xOW7PCe2BtoMD6sYBqUK+PBZad5euc1tP9ekcdSDxxK3ijgHsQ1PqQim4VqDGo=",
             "H": "BJj8hRLfPSe+GNfbS3Jd2XmYU3XTEJw+TaTxx7M9lxVY9BDI6toWVpmffMR0P28XJcV3W0SGWX2OOrRLaBYGhwM="
