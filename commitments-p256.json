@@ -222,7 +222,8 @@
                                 "captcha_vc",
                                 "captcha_answer",
                                 "cf_ch_verify",
-                                "cf_ch_cp_return"
+                                "cf_ch_cp_return",
+                                "md"
                             ],
                             "post-processed": "captcha-bypass",
                             "query-param": "__cf_chl_captcha_tk__"
