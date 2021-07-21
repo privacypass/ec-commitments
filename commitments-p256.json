@@ -222,7 +222,8 @@
                                 "captcha_vc",
                                 "captcha_answer",
                                 "cf_ch_verify",
-                                "cf_ch_cp_return"
+                                "cf_ch_cp_return",
+                                "md"
                             ],
                             "post-processed": "captcha-bypass",
                             "query-param": "__cf_chl_captcha_tk__"
@@ -230,7 +231,7 @@
                     }
                 },
                 "min-version": "2.0.6",
-                "sig": "MEUCIHCqVCgo3sKAb6n+yznxsSIVts5L6u89duJvt8x93175AiEAzhd9F3HIGIaITMr79Wmskt697cE8lvWRTPBYScxOVEI="
+                "sig": "MEYCIQC9gK1mZwAWdM4jWbhxbyolpwXN4i332ljqQbYTZeX9oAIhAKvLyjJM2Pm+Njoh8RgY+VFLzh9i4WtT2Xh2rSx6Jhy8"
             }
         ]
     },
