@@ -314,6 +314,11 @@
             "expiry": "2022-08-16T01:28:00.789752104Z",
             "sig": "MEYCIQDuC6+yC/bj9MZAJfiRo3A27D6vLRZl2AtbRgstWV2wHQIhALztLL5FptqnayC6L11EFJH12rgybUEr2AhzHjZMKiTn"
         },
+        "2.61": {
+            "H": "BNovyDnwQaeFIohrHBc3TW8346rLEgPjPrw7QpxZHnn1I6G3neP/c2wx1ExQ5NnFQQ8iJ4hAaEW6tRTAufmXeNE=",
+            "expiry": "2022-08-31T00:01:00.00385755Z",
+            "sig": "MEQCIAkzak4VF7mQ99ANloJrezEF8FajK2UE/VzzlrS4+jXKAiAGi7mMt4vBbasTwrEhuKVEir40IKMYa5+U3j81K4Xkvg=="
+        },
         "dev": {
             "G": "BCyENEmEdWz3Wivy7iwXFcLZ0xOW7PCe2BtoMD6sYBqUK+PBZad5euc1tP9ekcdSDxxK3ijgHsQ1PqQim4VqDGo=",
             "H": "BJj8hRLfPSe+GNfbS3Jd2XmYU3XTEJw+TaTxx7M9lxVY9BDI6toWVpmffMR0P28XJcV3W0SGWX2OOrRLaBYGhwM="
